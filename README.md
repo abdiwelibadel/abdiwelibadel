@@ -4,7 +4,7 @@ I'm a former soldier turned software developer, driven by discipline, curiosity,
 
 ### A Bit About Me:
 - *Background*: Military-trained with a strong work ethic and laser focus. I made the leap into tech and recently earned my degree in Computer Science.
-- *Currently: Building my skills in **backend development* (Python, Flask), learning *React.js, and diving deep into **DevOps* tools like Docker, Kubernetes, and AWS.
+- *Currently: Building my skills in **backend development* (Python, Flask), *React.js, and diving deep into **DevOps* tools like Docker, Kubernetes, and AWS.
 - *Tech Stack*:  
   Python Flask JavaScript HTML CSS React.js Docker Git GitHub PostgreSQL  
 - *Learning Goals*: I'm currently sharpening my full-stack development skills and exploring how to build scalable, secure SaaS applications.
